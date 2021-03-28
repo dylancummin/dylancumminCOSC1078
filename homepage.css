@@ -49,4 +49,18 @@ li:last-child {
 }
 
 
+
+
+
+#detailsbox{
+	padding: 100px 100px;
+
+	background: #3A506B;
+	margin-top: -200px;
+	margin-left: 180px;
+	
+}
+
+
+
 html, body {background-color: lightblue;}
