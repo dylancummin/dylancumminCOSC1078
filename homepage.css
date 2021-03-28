@@ -34,7 +34,7 @@ html, body {background-color: lightblue;}
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 00;
+  padding: 0;
 	
   overflow: hidden;
   background-color: #333;
@@ -52,21 +52,21 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
-
+#navbar
 /* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: #111;
 }
-
+#navbar
 /* Add a gray right border to all list items, except the last item (last-child) */
 li {
   border-right: 1px solid #bbb;
 }
-
+#navbar
 li:last-child {
   border-right: none;
 }
-
+#navbar
 .active{
 	background-color: blue;
 }
