@@ -34,7 +34,7 @@ html, body {background-color: lightblue;}
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 20;
 	padding-bottom: 10;
   overflow: hidden;
   background-color: #333;
