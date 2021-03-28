@@ -87,7 +87,8 @@ li:last-child {
 }
 
 #paragraph {
-	padding: 0px 0px;
+	padding-top: 100px;
+	padding-left: 0px;
 }
 #mainbox{
 	padding:120px 10px;
